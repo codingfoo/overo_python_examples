@@ -2,4 +2,3 @@ The init_pwm script requires that devmem2 be installed.
 
 The pwm.py script writes to the register of the corresponding pwm pin. See the overo documentation for appropriate values.
 
-TODO: Add code to take a percentage and scale it to the appropriate value.
